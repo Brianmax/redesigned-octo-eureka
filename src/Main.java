@@ -4,4 +4,8 @@ public class Main {
         System.out.println("Esto no esta en staging ... por el momento");
 
     }
+
+    public static int sum(int a, int b) {
+        return a + b;
+    }
 }
